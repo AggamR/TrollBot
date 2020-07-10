@@ -1,0 +1,7 @@
+2020-04-29 11:42:33.841143
+ran command killme | by the user NotPexel#6154 | with the arguments: NotPexel#6154 | on server: Servant TEST Server2020-04-29 11:44:03.498244
+ran command killme | by the user NotPexel#6154 | with the arguments: NotPexel#6154 | on server: Servant TEST Server
+2020-04-29 11:47:58.558703
+ran command immune | by the user NotPexel#6154 | with the arguments: NotPexel#6154 | on server: Servant TEST Server2020-04-30 13:36:16.303285
+failed to run command meme | by the user NotPexel#6154 | with the arguments: ['NONE'] | on server: Servant TEST Server2020-05-01 08:47:53.384419
+failed to run command victory | by the user NotPexel#6154 | with the arguments: ['NONE'] | on server: Servant TEST Server

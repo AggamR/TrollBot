@@ -1,2 +1,2 @@
 # TrollBot
-a fun little discord bot UwU
+A fun little discord bot
